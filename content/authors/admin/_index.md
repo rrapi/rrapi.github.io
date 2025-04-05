@@ -108,7 +108,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2019-09-01
-    date_end: 2019-11-31
+    date_end: 2019-11-30
     summary: |
       Responsibilities include:
       - Development of a pipeline that uses Neural Network and AI tools to detect and analyze texts written in human natural language. The model was able to understand and disambiguate the word meaning.
