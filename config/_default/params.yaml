@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo résumé theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: 'Personal website of Franci Rrapi.'
+    # twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -32,10 +32,29 @@ header:
     enable: true
     blox: floating-theme-toggler
 
+# Site header
+# header:
+#   navbar:
+#     enable: true
+#     blox: "navbar"
+#     align: "left"
+#     fixed_to_top: true
+#     show_search: false
+#     show_theme_chooser: true
+#     highlight_active_link: true
+#     # -------------------------------------------
+#     # logo:
+#     #   text: ""
+#     #   filename: "" # in `assets/media/` folder
+#     # button: # call to action button, top right
+#     #   enable: true
+#     #   text: "test text"
+#     #   url: "#"
+
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Franci Rrapi. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
