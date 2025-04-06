@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "2rem"
+  spacing: "4rem"
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -37,10 +37,10 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
-  - block: awards
-    content:
-      title: Awards
-      username: admin
+  # - block: awards
+  #   content:
+  #     title: Awards
+  #     username: admin
   - block: languages
     content:
       title: Languages
