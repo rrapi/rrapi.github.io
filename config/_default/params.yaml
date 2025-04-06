@@ -43,9 +43,9 @@ header:
     show_theme_chooser: true
     highlight_active_link: true
     # -------------------------------------------
-    # logo:
-    #   text: ""
-    #   filename: "" # in `assets/media/` folder
+    logo:
+      text: ""
+      filename: icon.png # in `assets/media/` folder
     # button: # call to action button, top right
     #   enable: true
     #   text: "test text"
