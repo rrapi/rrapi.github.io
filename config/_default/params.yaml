@@ -45,7 +45,7 @@ header:
     # -------------------------------------------
     logo:
       text: ""
-      filename: 'assets/media/logo.png' # in `assets/media/` folder
+      filename: "assets/media/logo.png" # in `assets/media/` folder
     # button: # call to action button, top right
     #   enable: true
     #   text: "test text"
