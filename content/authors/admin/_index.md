@@ -67,9 +67,7 @@ work:
     date_start: 2024-07-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - Literature study for Industrial Research.
-      - Experimental Development.
+      Research Project **"Advanced Artificial Intelligence and Visual Reasoning Approaches for Collaborative Robotics (AI4CR)"**[↗](https://www.uniud.it/it/ricerca/progetti-e-iniziative/progetti-finanziati/pnrr-bandi-giovani-ricercatori-yrc/approcci-avanzati-di-intelligenza-artificiale-e-visual-reasoning-per-la-robotica-collaborativa-ai4cr).
   - position: R&D Machine Learning and Control Engineer
     company_name: CMC Marine
     company_url: ''
