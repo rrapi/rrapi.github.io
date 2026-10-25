@@ -120,11 +120,6 @@ work:
       Responsibilities include:
       - Development of a pipeline that uses Neural Network and AI tools to detect and analyze texts written in human natural language. The model was able to understand and disambiguate the word meaning.
 
-## Publications   
-publications:
-  - "Rrapi, F., Portelli, B., Serra, G., & Scalera, L. (2026). From AI foundations to Large Language Models: A survey on challenges and opportunities in collaborative robotics. Robotics and Computer-Integrated Manufacturing, 100, 103269."
-  - "Rrapi, F., Portelli, B., Serra, G., & Scalera, L. (2026, June). An Experimental Comparison of Visual Language Models in Robotic-Assisted Assembly. In IFToMM Symposium on Mechanism Design for Robotics (pp. 351-359). Springer Nature Switzerland."
-    
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -206,3 +201,8 @@ languages:
 ---
 
 I am an AI and Robotics Engineer and a PhD Candidate at the University of Udine (UNIUD). My research focuses on enhancing Human-Robot Collaboration (HRC) in industrial environments through advanced computer vision, robotic grasping, and Large Language Models (LLMs). Previously, I worked as a Research Fellow at AILAB-Udine, and gained industry experience with companies like Procter & Gamble, CmcMarine, and Concept Reply. I am passionate about bridging the gap between cutting-edge AI reasoning and practical, real-world robotic applications.
+
+## Publications
+
+* Rrapi, F., Portelli, B., Serra, G., & Scalera, L. (2026). From AI foundations to Large Language Models: A survey on challenges and opportunities in collaborative robotics. *Robotics and Computer-Integrated Manufacturing*, 100, 103269.
+* Rrapi, F., Portelli, B., Serra, G., & Scalera, L. (2026, June). An Experimental Comparison of Visual Language Models in Robotic-Assisted Assembly. *In IFToMM Symposium on Mechanism Design for Robotics* (pp. 351-359). Springer Nature Switzerland.
