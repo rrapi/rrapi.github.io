@@ -200,5 +200,4 @@ languages:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently a Research Fellow at the University of Udine (Italy) and part of the research team AI-LAB Udine.
-Here I am doing research on Artificial Intelligence applied to collaborative robotics mainly for Industrial applications.
+I am an AI and Robotics Engineer and a PhD Candidate at the University of Udine (UNIUD). My research focuses on enhancing Human-Robot Collaboration (HRC) in industrial environments through advanced computer vision, robotic grasping, and Large Language Models (LLMs). Previously, I worked as a Research Fellow at AILAB-Udine, and gained industry experience with companies like Procter & Gamble, CmcMarine, and Concept Reply. I am passionate about bridging the gap between cutting-edge AI reasoning and practical, real-world robotic applications.
