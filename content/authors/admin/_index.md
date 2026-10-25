@@ -119,6 +119,19 @@ work:
     summary: |
       Responsibilities include:
       - Development of a pipeline that uses Neural Network and AI tools to detect and analyze texts written in human natural language. The model was able to understand and disambiguate the word meaning.
+   
+# Publications structured as Awards/Accomplishments near the bottom
+awards:
+  - title: "From AI foundations to Large Language Models: A survey on challenges and opportunities in collaborative robotics"
+    date: '2026-01-01'
+    awarder: 'Robotics and Computer-Integrated Manufacturing, 100, 103269'
+    summary: |
+      Authors: Franci Rrapi, B. Portelli, G. Serra, L. Scalera
+  - title: "An Experimental Comparison of Visual Language Models in Robotic-Assisted Assembly"
+    date: '2026-06-01'
+    awarder: 'IFToMM Symposium on Mechanism Design for Robotics (pp. 351-359). Springer Nature Switzerland'
+    summary: |
+      Authors: Franci Rrapi, B. Portelli, G. Serra, L. Scalera
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
