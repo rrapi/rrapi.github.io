@@ -17,11 +17,10 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Fellow
-
+role: AI and Robotics Engineer | PhD Candidate
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Udine, AI-LAB UDINE
+  - name: University of Udine (UNIUD), AILAB 
     url: https://ailab.uniud.it/
 
 # Social network links
@@ -60,12 +59,22 @@ education:
       Supervised by [Prof Daniele Nardi](https://www.diag.uniroma1.it/users/daniele_nardi).
 
 work:
+  - position: PhD Candidate
+    company_name: University of Udine (UNIUD)
+    company_logo: ''
+    date_start: 2025-11-01
+    date_end: ''
+    summary: |2-
+      - Research human-robot collaboration in industrial environments to foster fluent, natural interactions for shared goal execution.
+      - Evaluated multiple Large Language Models (LLMs) on industrial assembly collaborative tasks, leading to a published conference paper.
+      - Completed a research secondment abroad via the SME5.0 project at Chiang Mai University, focusing on advanced robotic grasping.
+      - Preparing an upcoming journal paper detailing experimental results from secondment research.
   - position: Research Fellow
     company_name: University of Udine, AI-LAB UDINE
     company_url: 'https://ailab.uniud.it/'
     company_logo: ''
     date_start: 2024-07-01
-    date_end: ''
+    date_end: 2025-06-30
     summary: |2-
       Research Project **"Advanced Artificial Intelligence and Visual Reasoning Approaches for Collaborative Robotics (AI4CR)"**[↗](https://www.uniud.it/it/ricerca/progetti-e-iniziative/progetti-finanziati/pnrr-bandi-giovani-ricercatori-yrc/approcci-avanzati-di-intelligenza-artificiale-e-visual-reasoning-per-la-robotica-collaborativa-ai4cr).
   - position: R&D Machine Learning and Control Engineer
