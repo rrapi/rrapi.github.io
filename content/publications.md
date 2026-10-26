@@ -3,7 +3,7 @@ title: "Publications"
 linktitle: "Publications"
 date: 2026-01-01
 type: page
-layout: single
+layout: wide
 ---
 
 ## Journal Papers
