@@ -1,12 +1,9 @@
 ---
 title: "Publications"
+linktitle: "Publications"
+date: 2026-10-26
 type: page
-design:
-  spacing:
-    padding: ['20px', '0', '20px', '0']
-  columns: '1'
-  background:
-    color: ''
+layout: wide
 ---
 
 ## Journal Papers
