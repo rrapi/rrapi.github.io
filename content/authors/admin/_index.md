@@ -60,8 +60,9 @@ education:
 
 work:
   - position: PhD Candidate
-    company_name: University of Udine (UNIUD)
+    company_name: University of Udine
     company_logo: ''
+    location: 'Udine, Italy'
     date_start: 2025-11-01
     date_end: ''
     summary: |2-
@@ -70,9 +71,10 @@ work:
       - Completed a research secondment abroad via the SME5.0 project at Chiang Mai University, focusing on advanced robotic grasping.
       - Preparing an upcoming journal paper detailing experimental results from secondment research.
   - position: Research Fellow
-    company_name: University of Udine, AI-LAB UDINE
+    company_name: University of Udine, AI-LAB
     company_url: 'https://ailab.uniud.it/'
     company_logo: ''
+    location: 'Udine, Italy'
     date_start: 2024-07-01
     date_end: 2025-06-30
     summary: |2-
@@ -81,6 +83,7 @@ work:
     company_name: CMC Marine
     company_url: ''
     company_logo: ''
+    location: 'Milan, Italy'
     date_start: 2023-09-01
     date_end: 2023-12-31
     summary: |
@@ -91,6 +94,7 @@ work:
     company_name: Concept Quality Reply 
     company_url: ''
     company_logo: ''
+    location: 'Turin, Italy'
     date_start: 2022-11-01
     date_end: 2023-08-31
     summary: |
@@ -102,6 +106,7 @@ work:
     company_name: Procter & Gamble 
     company_url: ''
     company_logo: ''
+    location: 'Brussels, Belgium'
     date_start: 2022-03-01
     date_end: 2022-07-31
     summary: |
@@ -114,6 +119,7 @@ work:
     company_name: Babelscape 
     company_url: ''
     company_logo: ''
+    location: 'Rome, Italy'
     date_start: 2019-09-01
     date_end: 2019-11-30
     summary: |
