@@ -20,7 +20,7 @@ superuser: true
 role: AI and Robotics Engineer | PhD Candidate
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Udine (UNIUD), AILAB 
+  - name: University of Udine, AILAB 
     url: https://ailab.uniud.it/
 
 # Social network links
