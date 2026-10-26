@@ -60,9 +60,8 @@ education:
 
 work:
   - position: PhD Candidate
-    company_name: University of Udine
+    company_name: University of Udine (Udine, Italy)
     company_logo: ''
-    location: 'Udine, Italy'
     date_start: 2025-11-01
     date_end: ''
     summary: |2-
@@ -71,19 +70,17 @@ work:
       - Completed a research secondment abroad via the SME5.0 project at Chiang Mai University, focusing on advanced robotic grasping.
       - Preparing an upcoming journal paper detailing experimental results from secondment research.
   - position: Research Fellow
-    company_name: University of Udine, AI-LAB
+    company_name: University of Udine, AI-LAB (Udine, Italy)
     company_url: 'https://ailab.uniud.it/'
     company_logo: ''
-    location: 'Udine, Italy'
     date_start: 2024-07-01
     date_end: 2025-06-30
     summary: |2-
       Research Project **"Advanced Artificial Intelligence and Visual Reasoning Approaches for Collaborative Robotics (AI4CR)"**[↗](https://www.uniud.it/it/ricerca/progetti-e-iniziative/progetti-finanziati/pnrr-bandi-giovani-ricercatori-yrc/approcci-avanzati-di-intelligenza-artificiale-e-visual-reasoning-per-la-robotica-collaborativa-ai4cr).
   - position: R&D Machine Learning and Control Engineer
-    company_name: CMC Marine
+    company_name: CMC Marine (Milan, Italy)
     company_url: ''
     company_logo: ''
-    location: 'Milan, Italy'
     date_start: 2023-09-01
     date_end: 2023-12-31
     summary: |
@@ -91,10 +88,9 @@ work:
       - Study and control of the fins for yachts stabilization with ML models.
       - Implementation of a new controller based on RL model approach.
   - position: QA Engineer
-    company_name: Concept Reply 
+    company_name: Concept Reply (Turin, Italy)
     company_url: ''
     company_logo: ''
-    location: 'Turin, Italy'
     date_start: 2022-11-01
     date_end: 2023-08-31
     summary: |
@@ -103,10 +99,9 @@ work:
       - Design and implement automation processes, test cases, performance tests and innovative solutions.
       - Supervisor of thesis students on R&D projects regarding a robotic arm in the laboratory.
   - position: Robotics Engineer (Erasmus+ Traineeship)
-    company_name: Procter & Gamble 
+    company_name: Procter & Gamble (Brussels, Belgium)
     company_url: ''
     company_logo: ''
-    location: 'Brussels, Belgium'
     date_start: 2022-03-01
     date_end: 2022-07-31
     summary: |
@@ -116,10 +111,9 @@ work:
       - Addition of the camera model on the gripper for Object Detection and Recognition.
       - Test simulations and use of an AI planning framework for quality measurement experiments and test the approach on the R&D lab with real robot (UR5e).
   - position: NLP Engineer (Internship)
-    company_name: Babelscape 
+    company_name: Babelscape (Rome, Italy) 
     company_url: ''
     company_logo: ''
-    location: 'Rome, Italy'
     date_start: 2019-09-01
     date_end: 2019-11-30
     summary: |
