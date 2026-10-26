@@ -34,6 +34,140 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/francirrapi
 
+education:
+  - area: MSc Artificial Intelligence and Robotics
+    icon: hero/academic-cap
+    institution: University of Rome La Sapienza
+    date_start: 2018-10-01
+    date_end: 2022-07-20
+    summary: |
+      Thesis: **"Robot Control And Plan Execution For Automated Experiments In Industrial Laboratory"**.
+      Supervised by [Prof Luca Iocchi](https://www.diag.uniroma1.it/users/luca_iocchi),
+      in collaboration with Procter & Gamble (Brussels, Belgium).
+      Work presented at the AIRO-AIxIA 2022 workshop.
+    button:
+      text: 'Read Thesis'
+      url: 'https://github.com/rrapi/Master-Thesis/'
+
+  - area: BSc Computer Science
+    icon: hero/academic-cap
+    institution: University of Rome La Sapienza
+    date_start: 2014-10-01
+    date_end: 2018-10-30
+    summary: |
+      Thesis: **"Analysis Of Sound And Spoken Language For Human-Machine Interaction"**.
+      Supervised by [Prof Daniele Nardi](https://www.diag.uniroma1.it/users/daniele_nardi).
+
+work:
+  - position: PhD Candidate
+    company_name: University of Udine (Udine, Italy)
+    company_logo: ''
+    date_start: 2025-11-01
+    date_end: ''
+    summary: |2-
+      - Research human-robot collaboration in industrial environments to foster fluent, natural interactions for shared goal execution.
+      - Evaluated multiple Large Language Models (LLMs) on industrial assembly collaborative tasks, leading to a published conference paper.
+      - Completed a research secondment abroad via the SME5.0 project at Chiang Mai University, focusing on advanced robotic grasping.
+      - Preparing an upcoming journal paper detailing experimental results from secondment research.
+  - position: Research Fellow
+    company_name: University of Udine, AI-LAB (Udine, Italy)
+    company_url: 'https://ailab.uniud.it/'
+    company_logo: ''
+    date_start: 2024-07-01
+    date_end: 2025-06-30
+    summary: |2-
+      Research Project **"Advanced Artificial Intelligence and Visual Reasoning Approaches for Collaborative Robotics (AI4CR)"**[↗](https://www.uniud.it/it/ricerca/progetti-e-iniziative/progetti-finanziati/pnrr-bandi-giovani-ricercatori-yrc/approcci-avanzati-di-intelligenza-artificiale-e-visual-reasoning-per-la-robotica-collaborativa-ai4cr).
+  - position: R&D Machine Learning and Control Engineer
+    company_name: CMC Marine (Milan, Italy)
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-09-01
+    date_end: 2023-12-31
+    summary: |
+      Responsibilities include:
+      - Study and control of the fins for yachts stabilization with ML models.
+      - Implementation of a new controller based on RL model approach.
+  - position: QA Engineer
+    company_name: Concept Reply (Turin, Italy)
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-11-01
+    date_end: 2023-08-31
+    summary: |
+      Responsibilities include:
+      - Ensure the overall quality and functionality of software products.
+      - Design and implement automation processes, test cases, performance tests and innovative solutions.
+      - Supervisor of thesis students on R&D projects regarding a robotic arm in the laboratory.
+  - position: Robotics Engineer (Erasmus+ Traineeship)
+    company_name: Procter & Gamble (Brussels, Belgium)
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-03-01
+    date_end: 2022-07-31
+    summary: |
+      Responsibilities include:
+      - Creation of the workspace Robotics Simulation.
+      - Creation and addition of the Robot composed by manipulator and gripper URDFs to the scene simulator for Motion Control and Path Planning.
+      - Addition of the camera model on the gripper for Object Detection and Recognition.
+      - Test simulations and use of an AI planning framework for quality measurement experiments and test the approach on the R&D lab with real robot (UR5e).
+  - position: NLP Engineer (Internship)
+    company_name: Babelscape (Rome, Italy) 
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-09-01
+    date_end: 2019-11-30
+    summary: |
+      Responsibilities include:
+      - Development of a pipeline that uses Neural Network and AI tools to detect and analyze texts written in human natural language. The model was able to understand and disambiguate the word meaning.
+
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
+skills:
+  - name: Technical Skills
+    items:
+      - name: Python
+        description: ''
+        percent: 95
+        # icon: devicon/python
+      - name: ROS
+        description: ''
+        percent: 80
+        #icon: devicon/rstudio
+      - name: LaTex
+        description: ''
+        percent: 70
+        #icon: devicon/pytorch
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 80
+        # icon: person-simple-walk
+      - name: Animals
+        description: ''
+        percent: 100
+        # icon: animals
+      - name: Sea
+        description: ''
+        percent: 90
+        # icon: sea
+
+languages:
+  - name: Italian
+    percent: 100
+  - name: English
+    percent: 100
+  - name: Albanian
+    percent: 100
+  - name: Portuguese
+    percent: 85
+  - name: Spanish
+    percent: 65
+  - name: French
+    percent: 25
+
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
