@@ -10,6 +10,9 @@ main:
   - name: Publications
     url: /publications/
     weight: 30
+  - name: Digital CV
+    url: /digital-cv/
+    weight: 20
   # - name: Blog
   #   url: blog/
   #   weight: 20
