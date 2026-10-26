@@ -91,7 +91,7 @@ work:
       - Study and control of the fins for yachts stabilization with ML models.
       - Implementation of a new controller based on RL model approach.
   - position: QA Engineer
-    company_name: Concept Quality Reply 
+    company_name: Concept Reply 
     company_url: ''
     company_logo: ''
     location: 'Turin, Italy'
