@@ -76,23 +76,17 @@ work:
     date_start: 2024-07-01
     date_end: 2025-06-30
     summary: |2-
-      Research Project **"Advanced Artificial Intelligence and Visual Reasoning Approaches for Collaborative Robotics (AI4CR)"**[↗](https://www.uniud.it/it/ricerca/progetti-e-iniziative/progetti-finanziati/pnrr-bandi-giovani-ricercatori-yrc/approcci-avanzati-di-intelligenza-artificiale-e-visual-reasoning-per-la-robotica-collaborativa-ai4cr).
-  - position: R&D Machine Learning and Control Engineer
-    company_name: CMC Marine (Milan, Italy)
-    company_url: ''
-    company_logo: ''
-    date_start: 2023-09-01
-    date_end: 2023-12-31
-    summary: |
-      Responsibilities include:
-      - Study and control of the fins for yachts stabilization with ML models.
-      - Implementation of a new controller based on RL model approach.
+      - Research Project **"Advanced Artificial Intelligence and Visual Reasoning Approaches for Collaborative Robotics (AI4CR)"**[↗](https://www.uniud.it/it/ricerca/progetti-e-iniziative/progetti-finanziati/pnrr-bandi-giovani-ricercatori-yrc/approcci-avanzati-di-intelligenza-artificiale-e-visual-reasoning-per-la-robotica-collaborativa-ai4cr).
+      - Authored survey paper on AI and LLMs for collaborative robotics (published in \emph{Robotics and Computer-Integrated Manufacturing}, 2026).
+      - Executed experimental laboratory tests using a physical UR5e cobot equipped with an RG6 gripper.
+      - Applied HRC methodologies incorporating RealSense cameras for computer vision and LLM reasoning for task planning.
+      - Submitted an application paper proposing an assisted collaborative robotics approach (under revision).
   - position: QA Engineer
     company_name: Concept Reply (Turin, Italy)
     company_url: ''
     company_logo: ''
     date_start: 2022-11-01
-    date_end: 2023-08-31
+    date_end: 2023-12-31
     summary: |
       Responsibilities include:
       - Ensure the overall quality and functionality of software products.
@@ -200,4 +194,4 @@ languages:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am an AI and Robotics Engineer and a PhD Candidate at the University of Udine (UNIUD). My research focuses on enhancing Human-Robot Collaboration (HRC) in industrial environments through advanced computer vision, robotic grasping, and Large Language Models (LLMs). Previously, I worked as a Research Fellow at AILAB-Udine, and gained industry experience with companies like Procter & Gamble, CmcMarine, and Concept Reply. I am passionate about bridging the gap between cutting-edge AI reasoning and practical, real-world robotic applications.
+I am an AI and Robotics Engineer and a PhD Candidate at the University of Udine (UNIUD). My research focuses on enhancing Human-Robot Collaboration (HRC) in industrial environments through advanced computer vision, robotic grasping, and Large Language Models (LLMs). Previously, I worked as a Research Fellow at AILAB-Udine, and gained industry experience with companies like Procter & Gamble and Concept Reply. I am passionate about bridging the gap between cutting-edge AI reasoning and practical, real-world robotic applications.
