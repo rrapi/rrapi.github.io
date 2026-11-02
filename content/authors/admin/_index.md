@@ -77,7 +77,7 @@ work:
     date_end: 2025-06-30
     summary: |2-
       - Research Project **"Advanced Artificial Intelligence and Visual Reasoning Approaches for Collaborative Robotics (AI4CR)"**[↗](https://www.uniud.it/it/ricerca/progetti-e-iniziative/progetti-finanziati/pnrr-bandi-giovani-ricercatori-yrc/approcci-avanzati-di-intelligenza-artificiale-e-visual-reasoning-per-la-robotica-collaborativa-ai4cr).
-      - Authored survey paper on AI and LLMs for collaborative robotics (published in \emph{Robotics and Computer-Integrated Manufacturing}, 2026).
+      - Authored survey paper on AI and LLMs for collaborative robotics published in \emph{Robotics and Computer-Integrated Manufacturing} (2026).
       - Executed experimental laboratory tests using a physical UR5e cobot equipped with an RG6 gripper.
       - Applied HRC methodologies incorporating RealSense cameras for computer vision and LLM reasoning for task planning.
       - Submitted an application paper proposing an assisted collaborative robotics approach (under revision).
