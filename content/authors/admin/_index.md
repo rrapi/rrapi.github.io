@@ -129,23 +129,23 @@ skills:
       - name: LaTex
         description: ''
         percent: 70
-        icon: devicon/latex
+        icon: hero/document-text
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: ⛰️ Hiking
         description: ''
         percent: 80
-        icon: 'hero/map'
-      - name: Animals
+        # icon: '⛰️:'
+      - name: 🐾 Animals
         description: ''
         percent: 100
-        icon: ':paw_prints:'
-      - name: Sea
+        # icon: ':paw_prints:'
+      - name: 🤿 Sea
         description: ''
         percent: 90
-        icon: ':diving_mask:'
+        # icon: ':diving_mask:'
 
 languages:
   - name: Italian
