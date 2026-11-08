@@ -125,7 +125,7 @@ skills:
       - name: ROS
         description: ''
         percent: 80
-        # icon: devicon/rstudio
+        icon: devicon/rstudio
       - name: LaTex
         description: ''
         percent: 70
@@ -137,15 +137,15 @@ skills:
       - name: Hiking
         description: ''
         percent: 80
-        # icon: person-simple-walk
+        icon: person-simple-walk
       - name: Animals
         description: ''
         percent: 100
-        # icon: animals
+        icon: animals
       - name: Sea
         description: ''
         percent: 90
-        # icon: sea
+        icon: sea
 
 languages:
   - name: Italian
