@@ -128,7 +128,7 @@ skills:
         icon: devicon/ros
       - name: LaTex
         description: ''
-        percent: 70
+        percent: 85
         icon: hero/document-text
   - name: Hobbies
     color: '#eeac02'
