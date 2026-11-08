@@ -40,11 +40,11 @@ education:
     institution: University of Rome La Sapienza
     date_start: 2018-10-01
     date_end: 2022-07-20
-    summary: |
-      Thesis: **"Robot Control And Plan Execution For Automated Experiments In Industrial Laboratory"**.
-      Supervised by [Prof Luca Iocchi](https://www.diag.uniroma1.it/users/luca_iocchi),
-      in collaboration with Procter & Gamble (Brussels, Belgium).
-      Work presented at the AIRO-AIxIA 2022 workshop.
+    summary: |2-
+      - Thesis: **"Robot Control And Plan Execution For Automated Experiments In Industrial Laboratory"**.
+      Supervised by [Prof Luca Iocchi](https://www.diag.uniroma1.it/users/luca_iocchi), in collaboration with Procter & Gamble (Brussels, Belgium). Work presented at the AIRO-AIxIA 2022 workshop.
+      - Erasmus+ Traineeship | Procter & Gamble | Brussels, Belgium | Mar 2022 – Jul 2022
+      - Extra-EU Mobility Exchange | UFMG | Belo Horizonte, Brazil | May 2021 – Sep 2021
     button:
       text: 'Read Thesis'
       url: 'https://github.com/rrapi/Master-Thesis/'
@@ -54,9 +54,9 @@ education:
     institution: University of Rome La Sapienza
     date_start: 2014-10-01
     date_end: 2018-10-30
-    summary: |
-      Thesis: **"Analysis Of Sound And Spoken Language For Human-Machine Interaction"**.
-      Supervised by [Prof Daniele Nardi](https://www.diag.uniroma1.it/users/daniele_nardi).
+    summary: |2-
+      - Thesis: **"Analysis Of Sound And Spoken Language For Human-Machine Interaction"**. Supervised by [Prof Daniele Nardi](https://www.diag.uniroma1.it/users/daniele_nardi).
+      - Erasmus+ Exchange Program | University of Málaga (UMA) | Málaga, Spain | Sep 2017 – Jul 2018
 
 work:
   - position: PhD Candidate
@@ -86,8 +86,7 @@ work:
     company_logo: ''
     date_start: 2022-11-01
     date_end: 2023-12-31
-    summary: |
-      Responsibilities include:
+    summary: |2-
       - Implemented automated testing frameworks over different test cases, performed performance evaluations, and applied innovative AI and Computer Vision solutions to ensure product quality.
       - Supervised thesis students on R&D projects involving a robotic arm, driving successful project completions and laboratory research advancements.
   - position: Robotics Engineer (Erasmus+ Traineeship)
@@ -96,8 +95,7 @@ work:
     company_logo: ''
     date_start: 2022-03-01
     date_end: 2022-07-31
-    summary: |
-      Responsibilities include:
+    summary: |2-
       - Research thesis during Msc degree within the AIPlan4EU european project, collaborating with Procter & Gamble Services Company and Sapienza University of Rome.
       - Experimental tests on simulated (Gazebo and RViz) and real lab environment with a UR5e robotic arm equipped with a Robotiq 2F-85 gripper and a RGB camera mounted on the gripper.
       - Object detection and class recognition with YOLO, enabling automated quality measurement experiments with an integrated AI Planning framework.
@@ -108,8 +106,7 @@ work:
     company_logo: ''
     date_start: 2019-09-01
     date_end: 2019-11-30
-    summary: |
-      Responsibilities include:
+    summary: |2-
       - Built a data processing pipeline to understand and disambiguate the sentence words meaning.
       - Used Neural Networks (e.g., CNN, LSTM) and AI tools to detect and analyze texts written in human natural language (e.g., NLTK Word2Vec, SpaCy).
 
