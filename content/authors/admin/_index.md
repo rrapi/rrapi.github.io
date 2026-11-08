@@ -137,7 +137,7 @@ skills:
       - name: Hiking
         description: ''
         percent: 80
-        icon: ':mountain:'
+        icon: 'hero/map'
       - name: Animals
         description: ''
         percent: 100
