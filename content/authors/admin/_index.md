@@ -65,10 +65,10 @@ work:
     date_start: 2025-11-01
     date_end: ''
     summary: |2-
-      - Research human-robot collaboration in industrial environments to foster fluent, natural interactions for shared goal execution.
-      - Evaluated multiple Large Language Models (LLMs) on industrial assembly collaborative tasks, leading to a published conference paper.
-      - Completed a research secondment abroad via the SME5.0 project at Chiang Mai University, focusing on advanced robotic grasping.
-      - Preparing an upcoming journal paper detailing experimental results from secondment research.
+      - AI applied to human-robot collaboration (HRC) for industrial environments.
+      - Evaluated multiple Large Language Models (LLMs) on collaborative assembly tasks (e.g., recognition and task planning).
+      - Secondment of 3 months at Chiang Mai University (within SME5.0 european project) focusing on advanced robotic grasping from 3D Point Cloud captured with depth camera.
+      - Robot-assisted assembly leveraging zero-shot capabilities of Vision Language Models (VLMs) for task planning and visual reasoning.
   - position: Research Fellow
     company_name: University of Udine, AI-LAB (Udine, Italy)
     company_url: 'https://ailab.uniud.it/'
@@ -77,10 +77,9 @@ work:
     date_end: 2025-06-30
     summary: |2-
       - Research Project **"Advanced Artificial Intelligence and Visual Reasoning Approaches for Collaborative Robotics (AI4CR)"**[↗](https://www.uniud.it/it/ricerca/progetti-e-iniziative/progetti-finanziati/pnrr-bandi-giovani-ricercatori-yrc/approcci-avanzati-di-intelligenza-artificiale-e-visual-reasoning-per-la-robotica-collaborativa-ai4cr).
-      - Authored survey paper on AI and LLMs for collaborative robotics published in \emph{Robotics and Computer-Integrated Manufacturing} (2026).
-      - Executed experimental laboratory tests using a physical UR5e cobot equipped with an RG6 gripper.
-      - Applied HRC methodologies incorporating RealSense cameras for computer vision and LLM reasoning for task planning.
-      - Submitted an application paper proposing an assisted collaborative robotics approach (under revision).
+      - Extensive literature review on AI and LLMs for collaborative robotics..
+      - Experimental tests with a UR5e cobot equipped with an RG6 gripper and a RealSense RGB-D camera for robot-assisted collaborative tasks.
+      - Developed a framework that applies HRC methodologies incorporating depth cameras for computer vision, LLM/VLM reasoning for task planning on robot-assisted assembly.
   - position: QA Engineer
     company_name: Concept Reply (Turin, Italy)
     company_url: ''
@@ -89,9 +88,8 @@ work:
     date_end: 2023-12-31
     summary: |
       Responsibilities include:
-      - Ensure the overall quality and functionality of software products.
-      - Design and implement automation processes, test cases, performance tests and innovative solutions.
-      - Supervisor of thesis students on R&D projects regarding a robotic arm in the laboratory.
+      - Implemented automated testing frameworks over different test cases, performed performance evaluations, and applied innovative AI and Computer Vision solutions to ensure product quality.
+      - Supervised thesis students on R&D projects involving a robotic arm, driving successful project completions and laboratory research advancements.
   - position: Robotics Engineer (Erasmus+ Traineeship)
     company_name: Procter & Gamble (Brussels, Belgium)
     company_url: ''
@@ -100,10 +98,10 @@ work:
     date_end: 2022-07-31
     summary: |
       Responsibilities include:
-      - Creation of the workspace Robotics Simulation.
-      - Creation and addition of the Robot composed by manipulator and gripper URDFs to the scene simulator for Motion Control and Path Planning.
-      - Addition of the camera model on the gripper for Object Detection and Recognition.
-      - Test simulations and use of an AI planning framework for quality measurement experiments and test the approach on the R&D lab with real robot (UR5e).
+      - Research thesis during Msc degree within the AIPlan4EU european project, collaborating with Procter & Gamble Services Company and Sapienza University of Rome.
+      - Experimental tests on simulated (Gazebo and RViz) and real lab environment with a UR5e robotic arm equipped with a Robotiq 2F-85 gripper and a RGB camera mounted on the gripper.
+      - Object detection and class recognition with YOLO, enabling automated quality measurement experiments with an integrated AI Planning framework.
+      - YOLO fine-tuning for a better accuracy in clutter and darkened lab environments.
   - position: NLP Engineer (Internship)
     company_name: Babelscape (Rome, Italy) 
     company_url: ''
@@ -112,7 +110,8 @@ work:
     date_end: 2019-11-30
     summary: |
       Responsibilities include:
-      - Development of a pipeline that uses Neural Network and AI tools to detect and analyze texts written in human natural language. The model was able to understand and disambiguate the word meaning.
+      - Built a data processing pipeline to understand and disambiguate the sentence words meaning.
+      - Used Neural Networks (e.g., CNN, LSTM) and AI tools to detect and analyze texts written in human natural language (e.g., NLTK Word2Vec, SpaCy).
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -122,15 +121,15 @@ skills:
       - name: Python
         description: ''
         percent: 95
-        # icon: devicon/python
+        icon: devicon/python
       - name: ROS
         description: ''
         percent: 80
-        #icon: devicon/rstudio
+        # icon: devicon/rstudio
       - name: LaTex
         description: ''
         percent: 70
-        #icon: devicon/pytorch
+        # icon: devicon/pytorch
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
