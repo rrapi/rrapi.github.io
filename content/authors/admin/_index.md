@@ -152,7 +152,7 @@ languages:
     percent: 100
     icon: ':i'
   - name: 🇬🇧 English
-    percent: 100
+    percent: 90
   - name: 🇦🇱 Albanian
     percent: 100
   - name: 🇵🇹 Portuguese
