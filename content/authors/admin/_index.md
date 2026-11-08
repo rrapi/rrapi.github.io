@@ -125,15 +125,15 @@ skills:
         icon: devicon/ros
       - name: LaTex
         description: ''
-        percent: 85
+        percent: 80
         icon: hero/document-text
       - name: PyTorch
         description: ''
-        percent: 90
+        percent: 85
         icon: devicon/pytorch
       - name: Docker
         description: ''
-        percent: 90
+        percent: 80
         icon: devicon/docker
   - name: Hobbies
     color: '#eeac02'
@@ -155,6 +155,10 @@ skills:
         description: ''
         percent: 100
         # icon: ':soccer'
+      - name: 🗺️ Travelling
+        description: ''
+        percent: 100
+        # icon: '🗺️'
 
 languages:
   - name: 🇮🇹 Italian
