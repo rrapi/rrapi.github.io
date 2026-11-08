@@ -127,6 +127,14 @@ skills:
         description: ''
         percent: 85
         icon: hero/document-text
+      - name: PyTorch
+        description: ''
+        percent: 90
+        icon: devicon/pytorch
+      - name: Docker
+        description: ''
+        percent: 90
+        icon: devicon/docker
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -143,6 +151,10 @@ skills:
         description: ''
         percent: 90
         # icon: ':diving_mask:'
+      - name: ⚽ Sport
+        description: ''
+        percent: 100
+        # icon: ':soccer'
 
 languages:
   - name: 🇮🇹 Italian
