@@ -125,11 +125,11 @@ skills:
       - name: ROS
         description: ''
         percent: 80
-        icon: devicon/rstudio
+        icon: devicon/ros
       - name: LaTex
         description: ''
         percent: 70
-        # icon: devicon/pytorch
+        icon: devicon/latex
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -137,15 +137,15 @@ skills:
       - name: Hiking
         description: ''
         percent: 80
-        icon: person-simple-walk
+        icon: '⛰️'
       - name: Animals
         description: ''
         percent: 100
-        icon: animals
+        icon: '🐾'
       - name: Sea
         description: ''
         percent: 90
-        icon: sea
+        icon: '🤿'
 
 languages:
   - name: Italian
