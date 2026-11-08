@@ -148,17 +148,18 @@ skills:
         # icon: ':diving_mask:'
 
 languages:
-  - name: Italian
+  - name: 🇮🇹 Italian
     percent: 100
-  - name: English
+    icon: ':i'
+  - name: 🇬🇧 English
     percent: 100
-  - name: Albanian
+  - name: 🇦🇱 Albanian
     percent: 100
-  - name: Portuguese
+  - name: 🇵🇹 Portuguese
     percent: 85
-  - name: Spanish
+  - name: 🇪🇸 Spanish
     percent: 65
-  - name: French
+  - name: 🇫🇷 French
     percent: 25
 
 # Awards.
