@@ -42,9 +42,9 @@ education:
     date_end: 2022-07-20
     summary: |2-
       - Thesis: **"Robot Control And Plan Execution For Automated Experiments In Industrial Laboratory"**.
-      Supervised by [Prof Luca Iocchi](https://www.diag.uniroma1.it/users/luca_iocchi), in collaboration with Procter & Gamble (Brussels, Belgium). Work presented at the AIRO-AIxIA 2022 workshop.
-      - Erasmus+ Traineeship | Procter & Gamble | Brussels, Belgium | Mar 2022 – Jul 2022
-      - Extra-EU Mobility Exchange | UFMG | Belo Horizonte, Brazil | May 2021 – Sep 2021
+      Supervised by [Prof Luca Iocchi](https://www.diag.uniroma1.it/users/luca_iocchi), in collaboration with Procter & Gamble (Brussels, Belgium). Work presented at AIRO-AIxIA 2022.
+      - Erasmus+ Traineeship | Procter & Gamble, Brussels (Belgium), Mar 2022 – Jul 2022
+      - Extra-EU Mobility Exchange | UFMG, Belo Horizonte (Brazil), May 2021 – Sep 2021
     button:
       text: 'Read Thesis'
       url: 'https://github.com/rrapi/Master-Thesis/'
@@ -56,7 +56,7 @@ education:
     date_end: 2018-10-30
     summary: |2-
       - Thesis: **"Analysis Of Sound And Spoken Language For Human-Machine Interaction"**. Supervised by [Prof Daniele Nardi](https://www.diag.uniroma1.it/users/daniele_nardi).
-      - Erasmus+ Exchange Program | University of Málaga (UMA) | Málaga, Spain | Sep 2017 – Jul 2018
+      - Erasmus+ Exchange Program | University of Málaga (UMA), Málaga (Spain), Sep 2017 – Jul 2018
 
 work:
   - position: PhD Candidate
