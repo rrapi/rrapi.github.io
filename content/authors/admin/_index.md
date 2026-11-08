@@ -137,15 +137,15 @@ skills:
       - name: Hiking
         description: ''
         percent: 80
-        icon: '⛰️'
+        icon: ':mountain:'
       - name: Animals
         description: ''
         percent: 100
-        icon: '🐾'
+        icon: ':paw_prints:'
       - name: Sea
         description: ''
         percent: 90
-        icon: '🤿'
+        icon: ':diving_mask:'
 
 languages:
   - name: Italian
